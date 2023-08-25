@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"https://github.com/bigthonk/go-search" 
+	"github.com/bigthonk/go-search" 
 )
 
 func main() {
